@@ -1,0 +1,19 @@
+{
+  "name": "simple-node-docker-app",
+  "version": "1.0.0",
+  "description": "Docker app ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "bootstrap",
+    "express"
+  ],
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "author": "",
+  "license": "ISC"
+}
